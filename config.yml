@@ -1,0 +1,8 @@
+# default config.yml
+
+x:
+    lowerbound:0
+    higherbound:1000
+y:
+    lowerbound:0
+    higherbound:1000

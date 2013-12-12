@@ -1,0 +1,10 @@
+name: RandomTeleport
+main: com.technicassassin.RandomTeleport.RandomTeleport
+version: 0.1
+
+commands:
+      rtp:
+       description: Teleports you to a random point in a range specified by the admin.
+       usage: /rtp
+       permission: RandomTeleport.rtp
+       permission-message: You don't have permission to execute this command.
